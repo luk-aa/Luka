@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luka Shalamberidze
-==========================================================================================================================================
+Hi 👋 My name is Luka Shalamberidze
+===================================
 
 * 🌍  I'm based in Tbilisi
 * 🖥️  See my portfolio at [My Portfolio](http://portfolio-lukas-projects-17da86f5.vercel.app/)
